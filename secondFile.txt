@@ -1,10 +1,18 @@
 1
 2
+<<<<<<< HEAD
 This is git_1 edit A
 4
 5
 6
 This is git_1 edit B
+=======
+This is git_2 edit A
+4
+5
+6
+This is git_2 edit B
+>>>>>>> git_2
 8
 9
 10
