@@ -1,10 +1,10 @@
 1
 2
-3
+This is git_2 edit A
 4
 5
 6
-7
+This is git_2 edit B
 8
 9
 10
